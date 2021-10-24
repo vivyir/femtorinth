@@ -1,11 +1,11 @@
 # Femtorinth
-![license](https://img.shields.io/github/license/phnixir/femtorinth)
-![issues](https://img.shields.io/github/issues-raw/phnixir/femtorinth)
-![stargazers](https://img.shields.io/github/stars/phnixir/femtorinth)
+[![license](https://img.shields.io/github/license/phnixir/femtorinth)](https://github.com/phnixir/femtorinth/blob/master/LICENSE)
+[![issues](https://img.shields.io/github/issues-raw/phnixir/femtorinth)](https://github.com/phnixir/femtorinth/issues)
+[![stargazers](https://img.shields.io/github/stars/phnixir/femtorinth)](https://github.com/phnixir/femtorinth/stargazers)
 ![Crates.io](https://img.shields.io/crates/d/femtorinth)
-![Crates.io](https://img.shields.io/crates/v/femtorinth)
+[![Crates.io](https://img.shields.io/crates/v/femtorinth)](https://crates.io/crates/femtorinth)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
 
 Femtorinth is a rust library to interact with a sub-set of the [Modrinth][modrinth] api,
 it only includes the api calls that don't need auth (a.k.a only GET calls), it includes
@@ -77,6 +77,4 @@ you, as defined in the MPL2.0 license, shall be licensed as the above without
 any additional terms or conditions.
 
 ## License
-This project is licenced under [MPL 2.0][license].
-
-[license]: https://www.mozilla.org/en-US/MPL/2.0/
+This project is licenced under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
