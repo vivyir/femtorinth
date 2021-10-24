@@ -1,7 +1,7 @@
 [package]
 # name is derived from combining "Femto" (femtometre) combined with "Modrinth"
 name = "femtorinth"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["phnixir <ayitsmephoenix@airmail.cc>"]
 edition = "2021"
 description = "Femtorinth is a library to interact with a sub-set of the Modrinth API."
