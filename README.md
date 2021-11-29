@@ -8,7 +8,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
 
 ⚠️ This library is no longer maintained, I lost interest in this project after discovering
-a minecraft launcher called "MultiMC", however if you want to interact with [Modrinth][modrinth] api
+a minecraft launcher called "MultiMC", however if you want to interact with the [Modrinth][modrinth] api
 have a look at the [Ferinth][ferinth] crate which is more up-to-date :D.
 
 [ferinth]: https://crates.io/crates/ferinth
