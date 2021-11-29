@@ -7,6 +7,12 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
 
+⚠️ This library is no longer maintained, I lost interest in this project after discovering
+a minecraft launcher called "MultiMC", however if you want to interact with [Modrinth][modrinth] api
+have a look at the [Ferinth][ferinth] crate which is more up-to-date :D.
+
+[ferinth]: https://crates.io/crates/ferinth
+
 Femtorinth is a rust library to interact with a sub-set of the [Modrinth][modrinth] api,
 it only includes the api calls that don't need auth (a.k.a only GET calls), it includes
 parsing for all the structs that exist in the v1 documentation of Modrinth's api and the
